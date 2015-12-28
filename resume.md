@@ -26,12 +26,14 @@ Click [here](http://linkedin.com/in/anandpatel23) to view my LinkedIn.
 ## Projects
 #### Single Cycle MIPS Processor
 [![MIPS Pic]({{ site.baseurl }}/images/processor.png "Single Cycle MIPS Processor")](https://github.com/anandpatel23/Single_Cycle_Mips_Processor)
+
 + Role: Team Leader & Engineer
 + Developed a complete VHDL description of the MIPS-32 CPU and simulated it by executing a set of programs to demonstrate correct functionality of the processor.
 +  Simulated, debugged, and tested VHDL code using ModelSim
 
 #### _Let's Go Fishing!_ - Pokemon Fishing Game
 ![Let's Go Fishing]({{ site.baseurl }}/images/letsGoFishing.png "Let's Go Fishing")
+
 + Role: Team Leader & Engineer
 + We created a Pokemon based fishing game using a MATLAB GUI as the platform. This was interfaced with an accelerometer that used the arduino as a microcontroller. We were able to successfully implement features such as a Pokemon like loading screen, reeling and casting a fishing rod using the accelerometer and simulating the action and results within MATLAB.
 
@@ -41,11 +43,13 @@ Click [here](http://linkedin.com/in/anandpatel23) to view my LinkedIn.
 
 #### Bio-sensing Devices for Medical Applications
 ![Arduino Watch]({{ site.baseurl }}/images/bandDraft.png "Arduino Watch")
+
 + Role: Team Leader, Researcher, Developer
 + Worked with a team to use bio-sensing and bio-feedback response systems to simulated biomedical signals important in medical applications, develop a wristband that detects hypoglycemia through measurement of heart rate and detection of excess sweating.
 
 #### Autonomous Waste Robot
-![Autonomous Waste Robot]({{ site.baseurl }}/images/robot.png "Autonomous Waste Robot")
+![Autonomous Waste Robot]({{ site.baseurl }}/images/robot.jpg "Autonomous Waste Robot")
+
 + Role: Everything. Solo Project
 + Responsible for building and programming an autonomous waste disposal robot using Lego NXT. This was a very exciting challenge for me since I was able to have experience with Lego NXT in High School. I was introduced to sensor operation, algorithm design and robotics through hands-on-design and course-wide challenge in a decision-making environment. As an objective, I was able to design and build a robot able to autonomously separate trash and nuclear waste, delivering the trash to an incinerator and the nuclear waste to a depot for safe disposal.
 
