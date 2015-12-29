@@ -48,7 +48,7 @@ Click [here](http://linkedin.com/in/anandpatel23) to view my LinkedIn.
 + Worked with a team to use bio-sensing and bio-feedback response systems to simulated biomedical signals important in medical applications, develop a wristband that detects hypoglycemia through measurement of heart rate and detection of excess sweating.
 
 #### Autonomous Waste Robot
-![Autonomous Waste Robot]({{ site.baseurl }}/images/robot.jpg "Autonomous Waste Robot")
+![Autonomous Waste Robot]({{ site.baseurl }}/images/robot.jpeg "Autonomous Waste Robot")
 
 + Role: Everything. Solo Project
 + Responsible for building and programming an autonomous waste disposal robot using Lego NXT. This was a very exciting challenge for me since I was able to have experience with Lego NXT in High School. I was introduced to sensor operation, algorithm design and robotics through hands-on-design and course-wide challenge in a decision-making environment. As an objective, I was able to design and build a robot able to autonomously separate trash and nuclear waste, delivering the trash to an incinerator and the nuclear waste to a depot for safe disposal.
