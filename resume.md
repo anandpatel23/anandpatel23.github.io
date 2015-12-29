@@ -54,7 +54,9 @@ Click [here](http://linkedin.com/in/anandpatel23) to view my LinkedIn.
 + Responsible for building and programming an autonomous waste disposal robot using Lego NXT. This was a very exciting challenge for me since I was able to have experience with Lego NXT in High School. I was introduced to sensor operation, algorithm design and robotics through hands-on-design and course-wide challenge in a decision-making environment. As an objective, I was able to design and build a robot able to autonomously separate trash and nuclear waste, delivering the trash to an incinerator and the nuclear waste to a depot for safe disposal.
 
 ## Skills
-
++ **Programming**: Javascript, jQuery, HTML, CSS, Python, VHDL, C/C++, MSSQL, Java, Shell, Lego NXT
++ **Applications**: MATLAB, Git, SVN, Jira, Bootstrap, WordPress, MSSQL Server, Xilinx Vivado, PSpice, PSoc Creator, XMind, ERStudio Data Architect, Microsoft Project & SharePoint Development; AutoCAD, Adobe Dreamweaver, Photoshop & Lightroom; Sony Vegas Pro
++ **IT Knowledge**: Agile & Waterfall Methodologies; Project Management; Enterprise Architecture; ETL Framework
 
 ## Education
 #### Drexel University (Class of 2017)
@@ -65,3 +67,7 @@ Click [here](http://linkedin.com/in/anandpatel23) to view my LinkedIn.
 + STEM & Architecture Focused
 
 ## Activities
++ **Lambda Chi Alpha (EKZ)**: Secretary, Inner Circle Council Steward, Executive Board Member At Large, IFC Delegate
++ **Drexel Indian Student Association**: Student Advisor, VP of Finance, Technology Chairman, Cultural Chairman
++ **Drexel Interfraternity Council**: VP of Scholarship, Expansion Commitee
++ **Drexel TechServ**: Computer Technician
