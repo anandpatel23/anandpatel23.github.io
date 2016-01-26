@@ -23,6 +23,11 @@ Click [here](http://linkedin.com/in/anandpatel23) to view my LinkedIn.
 + Facilitated and conducted System, User Acceptance, and Regression testing while managing project status for issues
 + Developed SharePoint community site creation; security provisioning; and production support
 
+## Skills
++ **Programming**: Javascript, jQuery, HTML, CSS, Python, VHDL, C/C++, MSSQL, Java, Shell, Lego NXT
++ **Applications**: MATLAB, Git, SVN, Jira, Bootstrap, WordPress, MSSQL Server, Xilinx Vivado, PSpice, PSoc Creator, XMind, ERStudio Data Architect, Microsoft Project & SharePoint Development; AutoCAD, Adobe Dreamweaver, Photoshop & Lightroom; Sony Vegas Pro
++ **IT Knowledge**: Agile & Waterfall Methodologies; Project Management; Enterprise Architecture; ETL Framework
+
 ## Projects
 #### Single Cycle MIPS Processor
 [![MIPS Pic]({{ site.baseurl }}/images/processor.png "Single Cycle MIPS Processor")](https://github.com/anandpatel23/Single_Cycle_Mips_Processor)
@@ -48,15 +53,10 @@ Click [here](http://linkedin.com/in/anandpatel23) to view my LinkedIn.
 + Worked with a team to use bio-sensing and bio-feedback response systems to simulated biomedical signals important in medical applications, develop a wristband that detects hypoglycemia through measurement of heart rate and detection of excess sweating.
 
 #### Autonomous Waste Robot
-![Autonomous Waste Robot]({{ site.baseurl }}/images/robot.jpeg "Autonomous Waste Robot")
+![Autonomous Waste Robot]({{ site.baseurl }}/images/robot.jpg "Autonomous Waste Robot")
 
 + Role: Everything. Solo Project
 + Responsible for building and programming an autonomous waste disposal robot using Lego NXT. This was a very exciting challenge for me since I was able to have experience with Lego NXT in High School. I was introduced to sensor operation, algorithm design and robotics through hands-on-design and course-wide challenge in a decision-making environment. As an objective, I was able to design and build a robot able to autonomously separate trash and nuclear waste, delivering the trash to an incinerator and the nuclear waste to a depot for safe disposal.
-
-## Skills
-+ **Programming**: Javascript, jQuery, HTML, CSS, Python, VHDL, C/C++, MSSQL, Java, Shell, Lego NXT
-+ **Applications**: MATLAB, Git, SVN, Jira, Bootstrap, WordPress, MSSQL Server, Xilinx Vivado, PSpice, PSoc Creator, XMind, ERStudio Data Architect, Microsoft Project & SharePoint Development; AutoCAD, Adobe Dreamweaver, Photoshop & Lightroom; Sony Vegas Pro
-+ **IT Knowledge**: Agile & Waterfall Methodologies; Project Management; Enterprise Architecture; ETL Framework
 
 ## Education
 #### Drexel University (Class of 2017)
