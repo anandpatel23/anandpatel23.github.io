@@ -7,9 +7,9 @@ Click [here](http://linkedin.com/in/anandpatel23) to view my LinkedIn.
 ## Experience
 #### Software Developer [Web Applications] - Cubist Media Group
 + September 2015 - March 2016
-+ Developing end to end web applications with JavaScript, jQuery, HTML5, CSS, SharePoint, and AngularJS
-+ Developing powerful and performant interactions with SharePoint Data using jQuery and SPServices
-+ Developing and conducting quality control on eLearning courses for clients such as GlaxoSmithKline
++ Developing web applications & eLearning courses with JavaScript, jQuery, HTML5, CSS, SharePoint, & SPServices
++ Creating information architecture and wireframes of web applications for external clients such as GlaxoSmithKline
++ Developing SharePoint technical solutions for development, branding redesign, and administration
 
 #### Software Developer [Enterprise Architecture] - National Board of Medical Examiners
 + September 2014 - March 2015
