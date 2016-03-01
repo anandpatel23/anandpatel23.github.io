@@ -5,8 +5,9 @@ title: Resume
 Click [here](http://linkedin.com/in/anandpatel23) to view my LinkedIn.
 
 ## Experience
+
 #### Software Developer [Web Applications] - Cubist Media Group
-+ September 2015 - March 2016
++ September 2015 - Present
 + Developing web applications & eLearning courses with JavaScript, jQuery, HTML5, CSS, SharePoint, & SPServices
 + Creating information architecture and wireframes of web applications for external clients such as GlaxoSmithKline
 + Developing SharePoint technical solutions for development, branding redesign, and administration
