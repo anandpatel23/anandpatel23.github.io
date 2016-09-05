@@ -7,10 +7,10 @@ Click [here](http://linkedin.com/in/anandpatel23) to view my LinkedIn.
 ## Experience
 
 #### Software Developer [Web Applications] - Cubist Media Group
-+ September 2015 - Present
-+ Developing web applications & eLearning courses with JavaScript, jQuery, HTML5, CSS, SharePoint, & SPServices
-+ Creating information architecture and wireframes of web applications for external clients such as GlaxoSmithKline
-+ Developing SharePoint technical solutions for development, branding redesign, and administration
++ September 2015 - March 2016
++ Developed web applications & eLearning courses with JavaScript, jQuery, HTML5, CSS, SharePoint, & SPServices
++ Created information architecture and wireframes of web applications for external clients such as GlaxoSmithKline
++ Developed SharePoint technical solutions for development, branding redesign, and administration
 
 #### Software Developer [Enterprise Architecture] - National Board of Medical Examiners
 + September 2014 - March 2015
@@ -60,7 +60,7 @@ Click [here](http://linkedin.com/in/anandpatel23) to view my LinkedIn.
 + Responsible for building and programming an autonomous waste disposal robot using Lego NXT. This was a very exciting challenge for me since I was able to have experience with Lego NXT in High School. I was introduced to sensor operation, algorithm design and robotics through hands-on-design and course-wide challenge in a decision-making environment. As an objective, I was able to design and build a robot able to autonomously separate trash and nuclear waste, delivering the trash to an incinerator and the nuclear waste to a depot for safe disposal.
 
 ## Education
-#### Drexel University (Class of 2017)
+### Drexel University (Class of 2017)
 + Bachelor of Science in Computer Engineering
 + 5 year, 3 co-op 
 
