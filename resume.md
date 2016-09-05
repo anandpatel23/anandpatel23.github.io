@@ -60,7 +60,7 @@ Click [here](http://linkedin.com/in/anandpatel23) to view my LinkedIn.
 + Responsible for building and programming an autonomous waste disposal robot using Lego NXT. This was a very exciting challenge for me since I was able to have experience with Lego NXT in High School. I was introduced to sensor operation, algorithm design and robotics through hands-on-design and course-wide challenge in a decision-making environment. As an objective, I was able to design and build a robot able to autonomously separate trash and nuclear waste, delivering the trash to an incinerator and the nuclear waste to a depot for safe disposal.
 
 ## Education
-### Drexel University (Class of 2017)
+## Drexel University (Class of 2017)
 + Bachelor of Science in Computer Engineering
 + 5 year, 3 co-op 
 
