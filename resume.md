@@ -49,7 +49,7 @@ Click [here](http://linkedin.com/in/anandpatel23) to view my LinkedIn.
 * In 24 hours, we developed a Wi-Fi detection monitoring system that attains information from Wi-Fi enabled devices within a defined threshold. The data was recorded passively via a monitoring USB interface to capture mobile probing
 
 #### Single Cycle MIPS Processor
-![MIPS Pic]({{ site.baseurl }}/images/processor.png "Single Cycle MIPS Processor")](https://github.com/anandpatel23/Single_Cycle_Mips_Processor)
+![MIPS Pic]({{ site.baseurl }}/images/processor.png "Single Cycle MIPS Processor")
 
 + Role: Team Leader & Engineer
 + Developed a complete VHDL description of the MIPS-32 CPU and simulated it by executing a set of programs to demonstrate correct functionality of the processor.
