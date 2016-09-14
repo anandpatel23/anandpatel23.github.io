@@ -30,8 +30,26 @@ Click [here](http://linkedin.com/in/anandpatel23) to view my LinkedIn.
 + **IT Knowledge**: Agile & Waterfall Methodologies; Project Management; Enterprise Architecture; ETL Framework
 
 ## Projects
+
+#### International Consulting Residency
+![MGMT370_Pic]({{ site.baseurl }}/images/MGMT370.png "MGMT 370")
+
++ Developing marketing research & monetization strategies for a globally-utilized application for sharing and paying expenses
++ Brainstorming and developing partnerships in the United States
+
+#### Vaccine R/F Off-Grid Energy System
+![ECEP380_Pic]({{ site.baseurl }}/images/ECEP380.png "ECEP 380")
+
++ Designed an Off-Grid Energy System for a DC powered refrigerator/freezer used for medical vaccine storage at a site outside the interior city of Abuja, Nigeria using HOMER Pro Software and Power Engineering research
+
+#### Philly Codefest Dean's Innovation Winner - Life Sign
+![Codefest_Pic]({{ site.baseurl }}/images/codefest.png "Life Sign")
+
++ Role: Team Leader, Web Developer, Algorithms
+* In 24 hours, we developed a Wi-Fi detection monitoring system that attains information from Wi-Fi enabled devices within a defined threshold. The data was recorded passively via a monitoring USB interface to capture mobile probing
+
 #### Single Cycle MIPS Processor
-[![MIPS Pic]({{ site.baseurl }}/images/processor.png "Single Cycle MIPS Processor")](https://github.com/anandpatel23/Single_Cycle_Mips_Processor)
+![MIPS Pic]({{ site.baseurl }}/images/processor.png "Single Cycle MIPS Processor")](https://github.com/anandpatel23/Single_Cycle_Mips_Processor)
 
 + Role: Team Leader & Engineer
 + Developed a complete VHDL description of the MIPS-32 CPU and simulated it by executing a set of programs to demonstrate correct functionality of the processor.
