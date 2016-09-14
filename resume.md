@@ -43,7 +43,7 @@ Click [here](http://linkedin.com/in/anandpatel23) to view my LinkedIn.
 + Designed an Off-Grid Energy System for a DC powered refrigerator/freezer used for medical vaccine storage at a site outside the interior city of Abuja, Nigeria using HOMER Pro Software and Power Engineering research
 
 #### Philly Codefest Dean's Innovation Winner - Life Sign
-![Codefest_Pic]({{ site.baseurl }}/images/codefest.png "Life Sign")
+![Codefest_Pic]({{ site.baseurl }}/images/codefest.PNG "Life Sign")
 
 + Role: Team Leader, Web Developer, Algorithms
 * In 24 hours, we developed a Wi-Fi detection monitoring system that attains information from Wi-Fi enabled devices within a defined threshold. The data was recorded passively via a monitoring USB interface to capture mobile probing
