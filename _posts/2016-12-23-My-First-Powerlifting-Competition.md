@@ -3,8 +3,6 @@ layout: post
 title: My First Powerlifting Competition
 ---
 
-### Introduction 
-
 This past month I competed in my first powerlifting competition. Powerlifting has been a hobby of mine for the past year and I wanted to see how far I could push myself. I competed within the USAPL which is a drug tested federation and weighed in below 66 kg (145 freedom units). My goals were to beat a state deadlift record (spoiler alert: I did!) and go 9/9 on all of my attempts.
 
 [Link to video of my final attempts](https://www.youtube.com/watch?v=fwk8Uck1d1k)
