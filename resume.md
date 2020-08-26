@@ -6,6 +6,39 @@ Click [here](http://linkedin.com/in/anandpatel23) to view my LinkedIn.
 
 ## Experience
 
+#### Integrated Test Lead (Yokohama, Japan) - Lockheed Martin Corporation
++ July 2020 - Present
++ Supporting Japan Marine United Corporation for activation of Maya Class Destroyers - DDG-179 JS Maya and DDG-180 JS Haguro
++ Leading test procedure development and execution for Japan Maritime Self-Defense Force's Baseline 7 Aegis Programs
+
+#### DevSecOps Engineer [Virtualization & Test] - Lockheed Martin Corporation
++ January 2020 - July 2020
++ Responsible for System Virtualization efforts utilizing technologies such as VMWare vSphere and Redhawk Linux
++ Pioneered system solution development, integration, test, and deployment of virtualized weapon system
++ Led integration efforts for a virtualized Aegis Weapon System with AN/SPY-6 Radar
++ Led Multi-Element Integration & Test efforts for CPETA and Valiant Shield 2020
++ Designed an Automated System Test Pipeline within DevSecOps Digital Transformation IRAD
+
+#### Systems Engineer [ASW/Helo Integration] - Lockheed Martin Corporation
++ December 2018 - July 2020
++ Responsible for ASW (Anti-Submarine Warfare) design, integration, and test with MH-60R Helicopter and Vehicle Control Domain within multiple system baselines
++ Developed integrated automation scripts within NAVAIR SAIL HeloSim
++ Performed data analysis within VCD/MH-60R, SH-60K, AN/SQQ-89, and Aegis elements
+
+#### Systems Integration & Test Engineer, Scrum Master - Lockheed Martin Corporation
++ September 2017 - July 2020
++ Responsible for high level test planning and test execution of complex systems for the U.S. Coast Guard, U.S. Navy, U.S. Air Force, U.S. Missile Defense Agency and International customers.
++ SME for Ship Undersea Warfare Combat System (SQQ89) installation, configuration, integration and operation
++ Led execution test and integration events for MH-60R Helicopters/Vehicle Control Domain, Undersea Warefare, and Cybersecurity
++ Managed scrum master activities for cross product team integration & test for a team of 20+ engineering personnel
++ Utilized Model-Based Systems Engineering practices to plan, implement, and report on SI&T activities.
++ Performed system-level integration of software and hardware components to verify system requirements in a lab and end-user environment.
++ Performed data analysis to evaluate, document, troubleshoot, and correct system/subsystem anomalies found during scenario testing.
++ Developed requirement verification test procedures and test reports as required by the supporting program.
++ Supported the program technical leadership and functional management on cost, schedule and technical performance.
++ Worked closely with Government customer and customer representatives in all of the above tasks.
++ Mentored new hires, co-ops/interns and current Navy sailors in a collaborative environment
+
 #### Software Developer [Web Applications] - Cubist Media Group
 + September 2015 - March 2016
 + Developed web applications & eLearning courses with JavaScript, jQuery, HTML5, CSS, SharePoint, & SPServices
