@@ -79,6 +79,11 @@ Click [here](http://linkedin.com/in/anandpatel23) to view my LinkedIn.
 
 ## Education
 
+#### Johns Hopkins University (Class of 2022)
++ Master of Science in Engineering
++ Major: Systems Engineering
++ Concentration: Human Systems
+
 #### Drexel University (Class of 2017)
 + Bachelor of Science
 + Major: Computer Engineering
